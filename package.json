@@ -1,0 +1,21 @@
+{
+  "name": "nadine-scrapper",
+  "version": "0.0.1",
+  "description": "Aplikasi untuk scrapping data persuratan aplikasi Nadine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.14.1",
+    "inquirer": "^5.1.0",
+    "ora": "^2.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "tough-cookie-file-store": "^1.2.0"
+  }
+}
